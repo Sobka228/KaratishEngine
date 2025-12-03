@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <OutputType>Library</OutputType>
-    <AssemblyVersion>25.0.1.1</AssemblyVersion>
-    <FileVersion>25.0.1.1</FileVersion>
+    <AssemblyVersion>25.0.1.2</AssemblyVersion>
+    <FileVersion>25.0.1.2</FileVersion>
     <Description>3D движок каратыш</Description>
     <Copyright>SOBKA_SUS</Copyright>
   </PropertyGroup>
